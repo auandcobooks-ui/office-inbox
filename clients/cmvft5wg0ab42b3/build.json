@@ -1,8 +1,8 @@
 {
  "kind": "office-by-au-build",
  "version": 2,
- "sent": "2026-10-19T22:13:47.484Z",
- "why": "form submitted",
+ "sent": "2026-10-19T22:35:47.273Z",
+ "why": "deposit received",
  "client": {
   "id": "cmvft5wg0ab42b3",
   "status": "submitted",
@@ -14,10 +14,12 @@
    "deal": "business",
    "price": 200000,
    "deposit": 0,
-   "note": ""
+   "note": "",
+   "paid": 100000
   },
   "checks": {
-   "form": 1792448022074
+   "form": 1792448022074,
+   "deposit": 1792449346351
   }
  },
  "form": {
