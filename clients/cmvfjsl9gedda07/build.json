@@ -1,0 +1,91 @@
+{
+ "kind": "office-by-au-build",
+ "version": 2,
+ "sent": "2026-10-19T17:54:10.858Z",
+ "why": "form submitted",
+ "client": {
+  "id": "cmvfjsl9gedda07",
+  "status": "submitted",
+  "data": {
+   "name": "Nonso",
+   "phone": "0912 643 3425",
+   "business": "AU Hair Accessories",
+   "plan": "business",
+   "deal": "friends",
+   "price": 100000,
+   "deposit": 100000,
+   "note": ""
+  },
+  "checks": {
+   "deposit": 1792432101796,
+   "form": 1792432446203
+  }
+ },
+ "form": {
+  "business": "AU Hair Accessories",
+  "kinds": [
+   "Beauty, hair & wigs"
+  ],
+  "kindOwn": "",
+  "sells": "OK, so we sell Hair Accessories, Installation wig caps available in 11 different colours, Dome Wig Caps",
+  "address": "Shop A1, Odundaz Plaza, by Bayelsa Plaza, BBA, Trade-Fair Complex, Lagos State",
+  "branches": "",
+  "rc": "",
+  "phones": [
+   "0912 643 3425"
+  ],
+  "email": "auhairaccessories@gmail.com",
+  "website": "",
+  "instagram": "@auhairaccessories",
+  "facebook": "AU Hair Accessories",
+  "tiktok": "@auhairaccessories",
+  "xtw": "",
+  "owner": "Nonso",
+  "ownerTitle": "Managing Director",
+  "greet": "Nonso",
+  "ownerPhone": "0912 643 3425",
+  "signName": "Umeh Nonso",
+  "signTitle": "Managing Director",
+  "palette": "Pink glam",
+  "colors": [
+   "#E0479E",
+   "#4A0F2E",
+   "#FFC2E2",
+   "#FFF0F7"
+  ],
+  "style": "",
+  "styleNote": "",
+  "banks": [
+   {
+    "bank": "Wema Bank",
+    "name": "Umeh Nonso",
+    "number": "0236148354"
+   }
+  ],
+  "vat": "yes",
+  "vatRate": "7.5",
+  "terms": "",
+  "validDays": "",
+  "footNote": "",
+  "staff": [],
+  "subdomain": "auhairaccessories",
+  "extra": "",
+  "heard": "a friend",
+  "wantsBusiness": false,
+  "agree": true,
+  "signedName": "Umeh Nonso",
+  "logo": "3f28fb8a5d069daa9d4b85ea87b0b2bd",
+  "signature": "",
+  "signDrawn": "2608b7a22ad9b7345227c7c00b9343ae",
+  "extras": null,
+  "payProof": "",
+  "payLater": false,
+  "signedAt": 1792432446203,
+  "agreementPlan": "business",
+  "agreementVersion": "2026-10-19 (2)"
+ },
+ "files": {
+  "logo": "3f28fb8a5d069daa9d4b85ea87b0b2bd.png",
+  "signDrawn": "2608b7a22ad9b7345227c7c00b9343ae.png"
+ }
+}
