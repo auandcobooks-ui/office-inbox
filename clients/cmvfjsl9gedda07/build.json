@@ -1,11 +1,11 @@
 {
  "kind": "office-by-au-build",
  "version": 2,
- "sent": "2026-10-19T17:54:10.858Z",
- "why": "form submitted",
+ "sent": "2026-10-19T19:53:26.120Z",
+ "why": "status live",
  "client": {
   "id": "cmvfjsl9gedda07",
-  "status": "submitted",
+  "status": "live",
   "data": {
    "name": "Nonso",
    "phone": "0912 643 3425",
@@ -18,7 +18,8 @@
   },
   "checks": {
    "deposit": 1792432101796,
-   "form": 1792432446203
+   "form": 1792432446203,
+   "app": 1792439605082
   }
  },
  "form": {
