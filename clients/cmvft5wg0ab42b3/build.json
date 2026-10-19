@@ -1,0 +1,90 @@
+{
+ "kind": "office-by-au-build",
+ "version": 2,
+ "sent": "2026-10-19T22:13:47.484Z",
+ "why": "form submitted",
+ "client": {
+  "id": "cmvft5wg0ab42b3",
+  "status": "submitted",
+  "data": {
+   "name": "David",
+   "phone": "08181940503",
+   "business": "Kraytor",
+   "plan": "starter",
+   "deal": "business",
+   "price": 200000,
+   "deposit": 0,
+   "note": ""
+  },
+  "checks": {
+   "form": 1792448022074
+  }
+ },
+ "form": {
+  "business": "Kraytor",
+  "kinds": [
+   "Furniture & interiors"
+  ],
+  "kindOwn": "",
+  "sells": "OK, so we are into furnishing, interior designing & home remodeling",
+  "address": "Lagos",
+  "branches": "",
+  "rc": "",
+  "phones": [
+   "08181940503"
+  ],
+  "email": "",
+  "website": "",
+  "instagram": "",
+  "facebook": "",
+  "tiktok": "",
+  "xtw": "",
+  "owner": "David",
+  "ownerTitle": "CEO",
+  "greet": "",
+  "ownerPhone": "",
+  "signName": "David",
+  "signTitle": "CEO",
+  "palette": "Earth & clay",
+  "colors": [
+   "#A0522D",
+   "#3B2414",
+   "#E7B98A",
+   "#F7EFE6"
+  ],
+  "style": "luxury",
+  "styleNote": "",
+  "banks": [
+   {
+    "bank": "Wema",
+    "name": "Umeh Nonso",
+    "number": "0236148354"
+   }
+  ],
+  "vat": "yes",
+  "vatRate": "7.5",
+  "terms": "",
+  "validDays": "",
+  "footNote": "",
+  "staff": [],
+  "subdomain": "kraytor",
+  "extra": "",
+  "heard": "",
+  "wantsBusiness": false,
+  "agree": true,
+  "signedName": "Nonso",
+  "logo": "d53edb6622edc8751cc7599cab04f3d1",
+  "signature": "",
+  "signDrawn": "5f22c9743df94e746d59063a9a839450",
+  "extras": null,
+  "payProof": "",
+  "payLater": false,
+  "signedAt": 1792448022074,
+  "agreementPlan": "starter",
+  "agreementVersion": "2026-10-19 (2)"
+ },
+ "files": {
+  "logo": "d53edb6622edc8751cc7599cab04f3d1.png",
+  "signDrawn": "5f22c9743df94e746d59063a9a839450.png"
+ }
+}
