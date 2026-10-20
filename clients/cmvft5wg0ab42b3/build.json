@@ -1,11 +1,11 @@
 {
  "kind": "office-by-au-build",
  "version": 2,
- "sent": "2026-10-19T22:35:47.273Z",
- "why": "deposit received",
+ "sent": "2026-10-20T16:51:20.331Z",
+ "why": "status live",
  "client": {
   "id": "cmvft5wg0ab42b3",
-  "status": "submitted",
+  "status": "live",
   "data": {
    "name": "David",
    "phone": "08181940503",
@@ -19,7 +19,21 @@
   },
   "checks": {
    "form": 1792448022074,
-   "deposit": 1792449346351
+   "deposit": 1792449346351,
+   "design": 1792475325915,
+   "logo": 1792475329057,
+   "stamps": 1792475352255,
+   "details": 1792475817227,
+   "products": 1792475819394,
+   "plan": 1792475821772,
+   "pins": 1792475823795,
+   "app": 1792475875096,
+   "tour": 1792475877068,
+   "phone": 1792475879045,
+   "musts": 1792475881170,
+   "dashboard": 1792475883146,
+   "sent": 1792502196620,
+   "balance": 1792515065306
   }
  },
  "form": {
