@@ -1,24 +1,37 @@
 {
  "kind": "office-by-au-build",
  "version": 2,
- "sent": "2026-11-05T11:36:29.650Z",
- "why": "deposit received",
+ "sent": "2026-11-05T12:32:43.032Z",
+ "why": "sent from dashboard",
  "client": {
   "id": "cmw3eisv9e72244",
-  "status": "submitted",
+  "status": "building",
   "data": {
    "name": "Semilore",
    "phone": "",
    "business": "",
-   "plan": "starter",
+   "plan": "business",
    "deal": "friends",
    "price": 200000,
    "deposit": 0,
-   "note": ""
+   "note": "",
+   "noPause": true
   },
   "checks": {
    "form": 1793878018000,
-   "deposit": 1793878588580
+   "deposit": 1793878588580,
+   "design": 1793879398618,
+   "logo": 1793879458618,
+   "stamps": 1793879470221,
+   "details": 1793879530221,
+   "products": 1793879590221,
+   "plan": 1793879650221,
+   "pins": 1793879710221,
+   "app": 1793879770221,
+   "tour": 1793879830221,
+   "phone": 1793879890221,
+   "musts": 1793879950221,
+   "dashboard": 1793880010221
   }
  },
  "form": {
