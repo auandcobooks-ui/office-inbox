@@ -1,8 +1,8 @@
 {
  "kind": "office-by-au-build",
  "version": 2,
- "sent": "2026-11-05T11:29:44.018Z",
- "why": "sent from dashboard",
+ "sent": "2026-11-05T11:36:29.650Z",
+ "why": "deposit received",
  "client": {
   "id": "cmw3eisv9e72244",
   "status": "submitted",
@@ -17,7 +17,8 @@
    "note": ""
   },
   "checks": {
-   "form": 1793878018000
+   "form": 1793878018000,
+   "deposit": 1793878588580
   }
  },
  "form": {
