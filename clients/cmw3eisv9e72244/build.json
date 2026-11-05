@@ -1,0 +1,92 @@
+{
+ "kind": "office-by-au-build",
+ "version": 2,
+ "sent": "2026-11-05T11:27:05.550Z",
+ "why": "form submitted",
+ "client": {
+  "id": "cmw3eisv9e72244",
+  "status": "submitted",
+  "data": {
+   "name": "Semilore",
+   "phone": "",
+   "business": "",
+   "plan": "starter",
+   "deal": "friends",
+   "price": 200000,
+   "deposit": 0,
+   "note": ""
+  },
+  "checks": {
+   "form": 1793878018000
+  }
+ },
+ "form": {
+  "business": "Chop and Fly",
+  "kinds": [
+   "Food, drinks & catering"
+  ],
+  "kindOwn": "",
+  "sells": "Chop & Fly is a food and catering business based in Ibadan, Nigeria. We specialise in freshly prepared, delicious and affordable meals, including pasta dishes and customised food packages for individuals, groups and events.\n\nOur services include online food orders, event catering, corporate catering and bulk meal supply. We cater to different occasions, guest sizes and budgets, with a focus on food quality, generous portions, excellent customer service and timely delivery.\n\nWe want to build a scalable food brand that combines everyday meal services with professional event catering.",
+  "address": "Plot 10-11, Ishola Abiona close, Akinpade layout, Akobo, Ibadan",
+  "branches": "",
+  "rc": "RC 8025379",
+  "phones": [
+   "07064280661",
+   "09032687337"
+  ],
+  "email": "chopandflyng@gmail.com",
+  "website": "",
+  "instagram": "@chopandflyng",
+  "facebook": "https://www.facebook.com/share/19E3RktUWE/?mibextid=wwXIfr",
+  "tiktok": "@chopandflyng",
+  "xtw": "",
+  "owner": "Oluwasemilore",
+  "ownerTitle": "",
+  "greet": "",
+  "ownerPhone": "09032687337",
+  "signName": "Oluwasemilore Onaleke",
+  "signTitle": "Managing Director",
+  "palette": "Royal purple",
+  "colors": [
+   "#5B2A86",
+   "#2A1240",
+   "#F2B705",
+   "#F3EDF9"
+  ],
+  "style": "decide",
+  "styleNote": "",
+  "banks": [
+   {
+    "bank": "Kuda Microfinance Bank",
+    "name": "Chop and Fly",
+    "number": "3002337965"
+   }
+  ],
+  "vat": "yes",
+  "vatRate": "7.5",
+  "terms": "A 70% deposit is required to confirm the booking. Any changes to the agreed menu, guest count or service requirements may attract additional charges.",
+  "validDays": "",
+  "footNote": "Thank you for your patronage !",
+  "staff": [],
+  "subdomain": "chopandfly",
+  "extra": "",
+  "heard": "",
+  "wantsBusiness": false,
+  "agree": true,
+  "adult": true,
+  "signedName": "Oluwasemilore Onaleke",
+  "logo": "5fc5ba1df2962349f9ae50ad5d2ed672",
+  "signature": "605c89ba24ec02721534c719b0f5df8b",
+  "signDrawn": "",
+  "extras": null,
+  "payProof": "",
+  "payLater": false,
+  "signedAt": 1793878018000,
+  "agreementPlan": "starter",
+  "agreementVersion": "2026-10-28"
+ },
+ "files": {
+  "logo": "5fc5ba1df2962349f9ae50ad5d2ed672.png",
+  "signature": "605c89ba24ec02721534c719b0f5df8b.jpg"
+ }
+}
